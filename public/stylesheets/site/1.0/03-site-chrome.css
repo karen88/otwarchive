@@ -614,4 +614,5 @@ p.kudos        {padding: 0.25em 0.25em 0.25em 60px; min-height: 50px; background
 .blurb .heading {display:block;}
 ol.pagination
         { text-align:center; clear:right; margin:0.643em auto}
+ .draft-chapter { color: red; }
 
